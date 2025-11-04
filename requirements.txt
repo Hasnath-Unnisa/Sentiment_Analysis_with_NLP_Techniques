@@ -1,10 +1,12 @@
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 nltk
-wordcloud
+gensim
 spacy
+python-docx
+PyPDF2
 textblob
-
+matplotlib
+seaborn
+wordcloud
