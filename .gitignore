@@ -1,0 +1,54 @@
+# ============================
+# Python / Jupyter Git Ignore
+# ============================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data cache / large files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# System files (Mac, Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Model / output files
+*.pkl
+*.h5
+*.sav
+*.model
+*.joblib
+
+# Results folder optional: uncomment if you don't want outputs tracked
+# Results/
